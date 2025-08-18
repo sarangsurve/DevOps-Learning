@@ -10,6 +10,7 @@
 
 ## Kubernetes
 
+* [Basic Structure of Manifest File](kubernetes/basic-structure-of-manifest-file.md)
 * [Kubernetes Probes](kubernetes/kubernetes-probes.md)
 * [Kubernetes Manifest files](kubernetes/kubernetes-manifest-files.md)
 
