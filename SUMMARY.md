@@ -26,6 +26,7 @@
     * [CLI Documentation for Kubernetes Resources](kubernetes/zeal-voras-cka/core-concepts/cli-documentation-for-kubernetes-resources.md)
   * [Workloads & Scheduling](kubernetes/zeal-voras-cka/workloads-and-scheduling/README.md)
     * [Labels and Selectors](kubernetes/zeal-voras-cka/workloads-and-scheduling/labels-and-selectors.md)
+    * [ReplicaSet](kubernetes/zeal-voras-cka/workloads-and-scheduling/replicaset.md)
 * [Kubernetes Probes](kubernetes/kubernetes-probes.md)
 * [Kubernetes Manifest files](kubernetes/kubernetes-manifest-files.md)
 
